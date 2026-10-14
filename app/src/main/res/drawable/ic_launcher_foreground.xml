@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Arrows -->
+    <path android:strokeColor="@color/icon_accent" android:strokeWidth="3.5" android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M46,44 C46,54 62,50 62,58 M46,44 L46,64" />
+    <!-- Trigger block -->
+    <path android:fillColor="@color/icon_foreground"
+        android:pathData="M33,32h26a4,4 0,0 1,4 4v6a4,4 0,0 1,-4 4H33a4,4 0,0 1,-4 -4v-6a4,4 0,0 1,4 -4z" />
+    <!-- Two action blocks -->
+    <path android:fillColor="@color/icon_foreground"
+        android:pathData="M33,62h18a4,4 0,0 1,4 4v6a4,4 0,0 1,-4 4H33a4,4 0,0 1,-4 -4v-6a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="@color/icon_accent"
+        android:pathData="M61,56h14a4,4 0,0 1,4 4v6a4,4 0,0 1,-4 4H61a4,4 0,0 1,-4 -4v-6a4,4 0,0 1,4 -4z" />
+</vector>
